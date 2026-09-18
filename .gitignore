@@ -88,4 +88,5 @@ HANDOFF.md
 /dist/
 packages/petdex-desktop-native/zig-out/
 packages/petdex-desktop-native/.zig-cache/
-gource.mp4
+# gource artifacts are committed for README embed
+# gource.mp4
