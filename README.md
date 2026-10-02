@@ -33,6 +33,12 @@
 
 ## What is Petdex
 
+
+[![CI](https://github.com/itsdarklikehell/petdex/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/petdex/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/petdex)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 Petdex is three things working together:
 
 1. **A web gallery** at [petdex.dev](https://petdex.dev) where the community submits, reviews, and showcases animated pets in the Codex sprite format.
